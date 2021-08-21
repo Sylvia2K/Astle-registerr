@@ -1,0 +1,46 @@
+{
+
+    "Server": {
+        "Id": "876935215166140426",
+        "Tag": "TAG",
+        "Register_Name": "İsim Yaş"
+    },
+
+    "Roles": {
+        "Register_Permission": "877745614757183498",
+        "Unregistered": "877136829864886272",
+        "Man": ["877151448306167808"],
+        "Women": ["877151386863808533"],
+        "Booster": "877144447954075649",
+        "Tagged": "877146843904114738",
+        "Bots": "877150532588937236"
+    },
+
+    "Channels": {
+        "Register_Chat": "876937524336009337",
+        "Welcome": "876937524336009337"
+    },
+
+    "Limits": {
+        "Age_Limit": 0,
+        "Cooldown": 2000
+    },
+
+    "Emojis": {
+        "Check": "✔️",
+        "Delete": "❌",
+        "Safe": "🔓",
+        "Dangerous": "🔒",
+        "Emoji_1": "",
+        "Emoji_2": "",
+        "Emoji_3": "",
+        "Emoji_4": "",
+        "Emoji_5": ""
+    },
+
+    "Embed": {
+        "Color": "RANDOM",
+        "Footer": "Astlevania #KAPALI ❤",
+        "Timeout": 10000
+    }
+}
